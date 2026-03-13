@@ -1,0 +1,79 @@
+site_name: Flexiple Operations Knowledge Base
+site_description: Internal operations playbook for the Flexiple team
+site_author: Hrishikesh
+repo_url: https://github.com/hrishikesh1990/flexiple-ops-kb-all
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.integrate
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - tables
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+  - meta
+
+extra:
+  social: []
+
+nav:
+  - Home: index.md
+  - A - Foundation:
+    - Company Overview: A-Foundation/01-company-overview.md
+    - Team Structure: A-Foundation/02-team-structure.md
+    - Onboarding Guide: A-Foundation/03-onboarding-guide.md
+  - B - Process SOPs:
+    - Role Setup: B-Process-SOPs/04-role-setup.md
+    - Sourcing & Outreach: B-Process-SOPs/05-sourcing-outreach.md
+    - Profile Documentation: B-Process-SOPs/06-profile-documentation.md
+    - Interview Process: B-Process-SOPs/07-interview-process.md
+    - Client Communication: B-Process-SOPs/08-client-communication.md
+    - Offers & Closure: B-Process-SOPs/09-offers-closure.md
+    - Pipeline Management: B-Process-SOPs/10-pipeline-management.md
+  - C - Level Playbooks:
+    - L1 Playbook: C-Level-Playbooks/11-l1-playbook.md
+    - L2 Playbook: C-Level-Playbooks/12-l2-playbook.md
+    - Senior OM Playbook: C-Level-Playbooks/13-senior-om-playbook.md
+    - Senior OM Transition: C-Level-Playbooks/14-senior-om-transition.md
+  - D - Performance & Growth:
+    - Incentives: D-Performance-Growth/15-incentives.md
+    - Performance Reviews: D-Performance-Growth/16-performance-reviews.md
+  - E - Training:
+    - Client Interfacing: E-Training/17-client-interfacing-training.md
+    - Product & Tools Guide: E-Training/18-product-tools-guide.md
