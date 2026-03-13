@@ -23,41 +23,17 @@ All Operations Managers report up through the following chain:
 - OMs report to their Senior OM
 - All Senior OMs report directly to Hrishikesh
 - Senior OMs handle and mentor a team of L1 and L2 OMs
-- Senior OM sub-levels: Senior OM-L2 (fully independent, high competency), Senior OM-L1 (transitioning into the role, building team management skills), and Senior OM-L3 (highest competency level)
+- Senior OM sub-levels: Senior OM-L1 (transitioning into the role, building team management skills), Senior OM-L2 (fully independent, high competency), and Senior OM-L3 (highest competency level, cross-pod leadership)
 - Benchmark team size: ~5 per Senior OM pod, though actual sizes vary based on team needs and Senior OM capacity
 
 ## 2. Current Team Composition (March 2026)
 
 **Total team: 3 Senior OMs + 14 OMs = 17 people**
 
-### Tanya (Senior OM-L2) — 7 reports
+The team is organized into 3 pods, each led by a Senior OM. Pods vary in size based on the Senior OM's capacity and current team distribution.
 
-| Name | Level |
-|------|-------|
-| Shreyansh | OM-L2 |
-| Joseph | OM-L2 |
-| Ashmita | OM-L1 |
-| Aditi | OM-L1 |
-| Darshan | OM-L1 |
-| Sharon | OM-L1 |
-| Viraj | OM-L1 |
-
-### Deepika B (Senior OM-L2) — 3 reports
-
-| Name | Level |
-|------|-------|
-| Shreya | OM-L1 |
-| Pranav | OM-L1 |
-| Ashish | OM-L1 |
-
-### Prateek (Senior OM-L1) — 4 reports
-
-| Name | Level |
-|------|-------|
-| Taresh | OM-L1 |
-| Parthiv | OM-L1 |
-| Pranathi | OM-L1 |
-| Deepika R | OM-L1 |
+!!! note "Team Details"
+    For the latest pod assignments and individual team members, check the internal team tracker. This doc focuses on structure, roles, and expectations that remain stable even as people move between levels.
 
 ## 3. Roles & Responsibilities
 
@@ -75,7 +51,7 @@ All Operations Managers report up through the following chain:
 
 **Needs help with:**
 
-- Nuanced reviews — Senior OM closely reviews inputs shared by L1s
+- Nuanced reviews — Senior OM closely reviews inputs shared by OM-L1s
 - Complex candidate assessments
 
 **Key principle:** Process is everything, revenue is a by-product.
@@ -84,7 +60,7 @@ All Operations Managers report up through the following chain:
 
 **Core focus:** Independent execution with emerging client interaction skills
 
-Everything in L1, plus:
+Everything in OM-L1, plus:
 
 **Must do:**
 
@@ -100,43 +76,60 @@ Everything in L1, plus:
 - Complex client negotiations
 - Strategic decisions on role approach
 
-### 3.3 Senior Operations Manager (L1, L2, and L3)
+### 3.3 Senior OM-L1 (Senior Operations Manager — Level 1)
 
-**Core focus:** Revenue delivery through team leverage and direct execution
+**Core focus:** Transitioning into pod leadership while building team management skills
 
-**Senior OM-L2** (e.g., Tanya, Deepika B): Fully independent. Manages pods of varying size, handles complex client relationships, and drives revenue targets autonomously.
+A Senior OM-L1 is someone who has been promoted from OM-L2 and is learning to manage a team. They still handle a significant amount of individual execution work, but are beginning to take on management responsibilities.
 
-**Senior OM-L1** (e.g., Prateek): Transitioning into the Senior OM role. Manages a smaller pod while building team management skills with closer oversight from leadership.
+**What changes from OM-L2:**
 
-**Senior OM-L3**: Highest competency level. Handles the most complex accounts and mentors other Senior OMs.
+- Manages a small pod (typically 3–4 OMs) with closer oversight from Hrishikesh
+- Begins reviewing and quality-gating recommendations from their team
+- Starts conducting prep calls and HR calls with candidates
+- Takes ownership of role setup and pipeline planning for their pod
+- Handles basic client escalations (complex ones still go to Hrishikesh)
 
-Everything in L2, plus:
+**Still developing:**
 
-**OM-level work (execution):**
+- Full independence in client relationships
+- Managing underperformers on the team
+- Balancing own IC work with management responsibilities
 
-- Finding recommendations — speaking to talent, documenting inputs, maintaining status for all candidates
-- Pipeline management — scheduling interviews, tracking talent pipeline post-shortlisting
-- Client interaction — day-to-day interfacing (sharing recos, following up for reviews)
-- Escalations — when things don't move, escalate to Hrishikesh
+### 3.4 Senior OM-L2 (Senior Operations Manager — Level 2)
 
-**Senior OM-level work (management and strategy):**
+**Core focus:** Fully independent pod leader driving revenue targets autonomously
 
-- Planning — target setting for the team
-- Setup — Talent Persona, automations, views for each role
-- Reviews — reviewing and sending recommendations (quality gate)
-- HR calls — prep calls and first/HR calls with candidates
-- Firefighting — client coordination when issues arise
-- Internal management — reports, metrics tracking, team performance
-- Role setup — persona creation, collaboration method, funnel activation for new roles in existing accounts
-- Account setup — for new clients, align on hiring process, finalize talent persona, establish collaboration norms, set up interview pipeline (with Hrishikesh oversight)
+A Senior OM-L2 manages their pod end-to-end without regular oversight. They are the primary quality gate, client relationship owner, and team developer for their pod.
 
-**Approximate daily time allocation:**
+**Responsibilities:**
 
-- Planning and setup: 60 mins
-- Reviewing and sending recos: 2 hours
-- Prep and HR calls: 2 hours (28 calls/day capacity)
-- Client coordination and firefighting: 60-90 mins
-- Internal management: remaining time
+- Manages a larger pod (typically 5–7 OMs including L1s and L2s)
+- Full ownership of client relationships and escalation handling
+- Reviews and sends all recommendations (quality gate for the pod)
+- Target setting, planning, and internal management for the team
+- Role setup and account setup for new clients (with Hrishikesh oversight on new accounts)
+- Conducts all prep calls and HR calls for their pod
+- Drives revenue targets — accountable for the pod's conversion output
+- Mentors OM-L2s who are on a path to Senior OM
+- Strategic client relationships and process improvement
+
+### 3.5 Senior OM-L3 (Senior Operations Manager — Level 3)
+
+**Core focus:** Highest competency level — cross-pod coordination, org-level strategy, and Senior OM development
+
+A Senior OM-L3 does everything a Senior OM-L2 does, but also operates at an organizational level. This role is rare and reserved for the most experienced and capable Senior OMs.
+
+**Additional responsibilities beyond Senior OM-L2:**
+
+- Trains and mentors Senior OM-L1s as they transition into management
+- Handles the most complex accounts and client situations
+- Coordinates across pods — load balancing, knowledge sharing, process standardization
+- Reduces Hrishikesh's operational involvement by owning leadership-level decisions
+- Drives account expansion — identifying and activating new revenue opportunities within existing accounts
+- Acts as the bridge between the founder and the broader ops team
+
+---
 
 ## 4. Key Definitions
 
@@ -156,38 +149,57 @@ R = Responsible | A = Accountable | C = Consulted | I = Informed
 | Lead to Role Kick-off | Sales (A), Senior OM (C) |
 | Account Setup | Senior OM (A), Hrishikesh (C) |
 | Role Setup | Senior OM (A), Hrishikesh (I) |
-| Finding Candidates | Senior OM (A), L1/L2 OM (R) |
-| Getting Candidates into Pipeline | Senior OM (A), L1/L2 OM (R) |
-| Moving Interview Pipeline | Senior OM (A), L1/L2 OM (R) |
+| Finding Candidates | Senior OM (A), OM-L1/L2 (R) |
+| Getting Candidates into Pipeline | Senior OM (A), OM-L1/L2 (R) |
+| Moving Interview Pipeline | Senior OM (A), OM-L1/L2 (R) |
 | Offer Release and Acceptance | Senior OM (A), Hrishikesh (C) |
 | Offer to Joining | Senior OM (A) |
 | Customer Success | CSM (A), Senior OM (I) |
 
 ## 6. Performance Signs by Level
 
-**Non-performing L1 signs:**
+These signs help Senior OMs and leadership identify where each team member is in their development, and whether they're ready for the next level.
 
-- Recommendation targets consistently not met
-- Data quality issues flagged repeatedly by Senior OM
-- Process steps skipped or incomplete
+### OM-L1: Non-performing
 
-**Average L1 signs:**
+- **Missing recommendation targets consistently** — falling below the daily minimum (M-level) more than 3–4 days per week, indicating either effort or process issues
+- **Data quality issues flagged repeatedly** — Senior OM has to send profiles back for corrections regularly; custom questions incomplete, internal view columns missing, resumes not in shareable state
+- **Process steps being skipped** — not following the morning follow-up routine, not calling candidates before interviews, not working views in priority order
+- **Not improving after feedback** — the same issues recur week after week despite being flagged
 
-- Meeting minimum recommendation targets
-- Acceptable data quality with occasional gaps
-- Following process but not setting benchmarks
+### OM-L1: Meeting expectations
 
-**High L1 / Early L2 signs:**
+- **Hitting minimum reco targets** — consistently at or near M-level daily targets
+- **Acceptable documentation quality** — occasional gaps but profiles generally pass Senior OM review without major corrections
+- **Following process reliably** — follow-up calls happening, views worked in order, statuses updated. Not setting benchmarks, but not dropping the ball either
+- **Responsive to feedback** — when an issue is flagged, it gets fixed and doesn't recur
 
-- Consistently exceeding reco targets
-- Zero investigative work needed in reviews
-- Beginning to handle roles end-to-end
-- Proactive candidate engagement
+### OM-L1: Exceeding / Ready for OM-L2
 
-**High L2 / Early Senior OM signs:**
+- **Consistently exceeding reco targets** — regularly at M+ level or above without being pushed
+- **Zero investigative work needed in reviews** — Senior OM can approve profiles without asking follow-up questions. Documentation is thorough and complete on first submission
+- **Beginning to handle roles end-to-end** — doesn't need hand-holding for sourcing, scheduling, or pipeline tracking. Can manage a role's full workflow independently
+- **Proactive candidate engagement** — not just following the script, but building rapport with candidates, anticipating issues (e.g., flagging a candidate who might drop off), and suggesting improvements
+- **Starting to help others** — informally answers questions from newer OM-L1s, shares tips on process or product usage
 
-- All of the above, plus:
-- Client interaction confidence
-- Automation and product ownership
-- Revenue awareness and commercial thinking
-- Mentoring L1 team members informally
+### OM-L2: Exceeding / Ready for Senior OM-L1
+
+- **All of the OM-L1 "exceeding" signs, sustained over 2+ quarters** — consistency is the key differentiator. A few good weeks isn't enough; the performance must be reliable over months
+- **Client interaction confidence** — can hold a client call without awkwardness, delivers updates clearly, handles basic pushback (e.g., "why don't you have more candidates?") without needing Senior OM backup
+- **Automation and product ownership** — understands how views, automations, and the outreach module work. Can configure them for their own roles and troubleshoot issues without asking
+- **Revenue awareness and commercial thinking** — understands which roles are high-priority commercially, allocates effort accordingly, and thinks about conversion (not just volume)
+- **Informal mentoring** — OM-L1s in the pod naturally go to this person for help. They're already acting as a team lead even without the title
+- **Flexibility and ownership mentality** — willing to stretch beyond their defined scope when the team needs it (covering for someone, handling a weekend escalation, picking up a new type of role)
+
+### Senior OM-L1: Growing into Senior OM-L2
+
+- **Pod is delivering results** — the team under them is hitting targets, not because the Senior OM is doing everything themselves, but because they're enabling their OMs to perform
+- **Client relationships are stable** — clients are not escalating frequently, feedback loops are working, and the Senior OM can handle most client situations without Hrishikesh's involvement
+- **Review quality is high** — recommendations going out to clients are consistently strong; the Senior OM is an effective quality gate
+- **Can manage underperformance** — has had difficult conversations with OMs who are underperforming and can coach them to improve (or flag them for support)
+- **Decreasing oversight needed** — Hrishikesh spends less time checking in on this pod because things are running smoothly
+
+!!! note "See Also"
+    - [L1 Playbook](../C-Level-Playbooks/11-l1-playbook.md) — What's expected at L1
+    - [L2 Playbook](../C-Level-Playbooks/12-l2-playbook.md) — What's expected at L2
+    - [Senior OM Playbook](../C-Level-Playbooks/13-senior-om-playbook.md) — Pod leadership guide
