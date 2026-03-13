@@ -30,10 +30,47 @@ All Operations Managers report up through the following chain:
 
 **Total team: 3 Senior OMs + 14 OMs = 17 people**
 
-The team is organized into 3 pods, each led by a Senior OM. Pods vary in size based on the Senior OM's capacity and current team distribution.
+!!! note "Keep this updated"
+    This section reflects the team as of March 2026. Update it when people join, leave, or move between levels.
 
-!!! note "Team Details"
-    For the latest pod assignments and individual team members, check the internal team tracker. This doc focuses on structure, roles, and expectations that remain stable even as people move between levels.
+### Tanya (Senior OM-L2) — 7 reports
+
+| Name | Level |
+|------|-------|
+| Shreyansh | OM-L2 |
+| Joseph | OM-L2 |
+| Ashmita | OM-L1 |
+| Aditi | OM-L1 |
+| Darshan | OM-L1 |
+| Sharon | OM-L1 |
+| Viraj | OM-L1 |
+
+### Deepika B (Senior OM-L2) — 3 reports
+
+| Name | Level |
+|------|-------|
+| Shreya | OM-L1 |
+| Pranav | OM-L1 |
+| Ashish | OM-L1 |
+
+### Prateek (Senior OM-L1) — 4 reports
+
+| Name | Level |
+|------|-------|
+| Taresh | OM-L1 |
+| Parthiv | OM-L1 |
+| Pranathi | OM-L1 |
+| Deepika R | OM-L1 |
+
+### Team Summary
+
+| Level | Count |
+|-------|-------|
+| Senior OM-L2 | 2 (Tanya, Deepika B) |
+| Senior OM-L1 | 1 (Prateek) |
+| OM-L2 | 2 (Shreyansh, Joseph) |
+| OM-L1 | 12 |
+| **Total** | **17** |
 
 ## 3. Roles & Responsibilities
 
