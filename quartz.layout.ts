@@ -37,46 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({
-      sortFn: (a, b) => {
-        // Sort folders and files by their name (which includes number prefix)
-        // This ensures A-Foundation < B-Process-SOPs and 01-xxx < 02-xxx
-        const nameA = a.name.toLowerCase()
-        const nameB = b.name.toLowerCase()
-
-        // Folders first, then files
-        if (a.isFolder && !b.isFolder) return -1
-        if (!a.isFolder && b.isFolder) return 1
-
-        // Both same type — sort by name (alphabetical works because of number/letter prefixes)
-        if (nameA < nameB) return -1
-        if (nameA > nameB) return 1
-        return 0
-      },
-      mapFn: (node) => {
-        // Clean up display names for the explorer sidebar
-        const name = node.displayName
-
-        // Folder names: "A-Foundation" → "A — Foundation"
-        const folderMatch = name.match(/^([A-F])-(.+)$/)
-        if (folderMatch) {
-          const letter = folderMatch[1]
-          const rest = folderMatch[2]
-            .replace(/-/g, " ")
-            .replace(/\b\w/g, (c: string) => c.toUpperCase())
-          node.displayName = `${letter} — ${rest}`
-        }
-
-        // File names: "01-company-overview" → "Company Overview"
-        const fileMatch = name.match(/^\d{2}-(.+)$/)
-        if (fileMatch) {
-          node.displayName = fileMatch[1]
-            .replace(/-/g, " ")
-            .replace(/\b\w/g, (c: string) => c.toUpperCase())
-        }
-      },
-      order: ["filter", "sort", "map"],
-    }),
+    Component.Explorer(),
   ],
   right: [
     Component.Graph(),
@@ -100,35 +61,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({
-      sortFn: (a, b) => {
-        const nameA = a.name.toLowerCase()
-        const nameB = b.name.toLowerCase()
-        if (a.isFolder && !b.isFolder) return -1
-        if (!a.isFolder && b.isFolder) return 1
-        if (nameA < nameB) return -1
-        if (nameA > nameB) return 1
-        return 0
-      },
-      mapFn: (node) => {
-        const name = node.displayName
-        const folderMatch = name.match(/^([A-F])-(.+)$/)
-        if (folderMatch) {
-          const letter = folderMatch[1]
-          const rest = folderMatch[2]
-            .replace(/-/g, " ")
-            .replace(/\b\w/g, (c: string) => c.toUpperCase())
-          node.displayName = `${letter} — ${rest}`
-        }
-        const fileMatch = name.match(/^\d{2}-(.+)$/)
-        if (fileMatch) {
-          node.displayName = fileMatch[1]
-            .replace(/-/g, " ")
-            .replace(/\b\w/g, (c: string) => c.toUpperCase())
-        }
-      },
-      order: ["filter", "sort", "map"],
-    }),
+    Component.Explorer(),
   ],
   right: [],
 }
