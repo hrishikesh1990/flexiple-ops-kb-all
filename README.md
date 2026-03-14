@@ -1,11 +1,14 @@
 # Flexiple Operations Knowledge Base
 
-Internal operations playbook for the Flexiple team.
+Operations playbook for the Flexiple team. Built with [Quartz](https://quartz.jzhao.xyz/) and compatible with [Obsidian](https://obsidian.md/).
 
-## Quick Start
+## View Online
 
-- **View online:** Deploy with Netlify/MkDocs (Material theme)
-- **Edit locally:** Open in Obsidian or any markdown editor
+**Live site:** https://hrishikesh1990.github.io/flexiple-ops-kb-all
+
+## Edit Locally
+
+Open the `content/` folder as an Obsidian vault for a full wiki experience with backlinks, graph view, and search.
 
 ## Structure
 
@@ -16,3 +19,10 @@ Internal operations playbook for the Flexiple team.
 | C — Level Playbooks | L1, L2, Senior OM Playbooks + Transition Guide |
 | D — Performance & Growth | Incentives, Performance Reviews |
 | E — Training | Client Interfacing Training, Product & Tools Guide |
+
+## Development
+
+```bash
+npm i
+npx quartz build --serve   # Local preview at localhost:8080
+```
