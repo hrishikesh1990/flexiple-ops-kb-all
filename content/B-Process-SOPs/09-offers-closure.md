@@ -1,5 +1,5 @@
 ---
-title: Offers & Closure
+title: 09 — Offers & Closure
 doc_number: 9
 category: B - Process SOPs
 owner: Hrishikesh
@@ -7,7 +7,7 @@ date: 2026-03-12
 status: Final
 ---
 
-# Offers & Closure
+# 09 — Offers & Closure
 
 *Flexiple Operations Knowledge Base | Category B: Process SOPs*
 

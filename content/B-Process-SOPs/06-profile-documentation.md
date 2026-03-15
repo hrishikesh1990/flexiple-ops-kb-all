@@ -1,5 +1,5 @@
 ---
-title: Profile Documentation
+title: 06 — Profile Documentation
 doc_number: 6
 category: B - Process SOPs
 owner: Hrishikesh
@@ -7,7 +7,7 @@ date: 2026-03-12
 status: Final
 ---
 
-# Profile Documentation
+# 06 — Profile Documentation
 
 *Flexiple Operations Knowledge Base | Category B: Process SOPs*
 

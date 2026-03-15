@@ -1,5 +1,5 @@
 ---
-title: Sourcing & Outreach
+title: 05 — Sourcing & Outreach
 doc_number: 5
 category: B - Process SOPs
 owner: Hrishikesh
@@ -7,7 +7,7 @@ date: 2026-03-12
 status: Final
 ---
 
-# Sourcing & Outreach
+# 05 — Sourcing & Outreach
 
 *Flexiple Operations Knowledge Base | Category B: Process SOPs*
 

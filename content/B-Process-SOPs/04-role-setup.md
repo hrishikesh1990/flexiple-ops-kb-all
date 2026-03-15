@@ -1,5 +1,5 @@
 ---
-title: Role Setup
+title: 04 — Role Setup
 doc_number: 4
 category: B - Process SOPs
 owner: Hrishikesh
@@ -7,7 +7,7 @@ date: 2026-03-12
 status: Final
 ---
 
-# Role Setup
+# 04 — Role Setup
 
 *Flexiple Operations Knowledge Base | Category B: Process SOPs*
 

@@ -1,5 +1,5 @@
 ---
-title: Pipeline Management
+title: 10 — Pipeline Management
 doc_number: 10
 category: B - Process SOPs
 owner: Hrishikesh
@@ -7,7 +7,7 @@ date: 2026-03-12
 status: Final
 ---
 
-# Pipeline Management
+# 10 — Pipeline Management
 
 *Flexiple Operations Knowledge Base | Category B: Process SOPs*
 
