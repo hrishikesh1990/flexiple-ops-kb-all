@@ -1,12 +1,12 @@
 ---
-title: Weekly Plan & Progress Tracker
+title: 22 — Weekly Plan & Progress Tracker
 tags: [weekly-plan, tracker, operations, active-roles]
 owner: Hrishikesh
 date: 2026-03-15
 status: Final
 ---
 
-# Weekly Plan & Progress Tracker
+# 22 — Weekly Plan & Progress Tracker
 
 *Flexiple Operations Knowledge Base | Category G: Weekly Tracker*
 

@@ -1,5 +1,5 @@
 ---
-title: Product & Tools Guide
+title: 18 — Product & Tools Guide
 doc_number: 18
 category: E - Training
 owner: Hrishikesh
@@ -7,7 +7,7 @@ date: 2026-03-12
 status: Draft
 ---
 
-# Product & Tools Guide
+# 18 — Product & Tools Guide
 
 *Flexiple Operations Knowledge Base | Category E: Training*
 

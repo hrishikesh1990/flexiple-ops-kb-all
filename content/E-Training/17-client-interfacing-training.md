@@ -1,5 +1,5 @@
 ---
-title: Client Interfacing Training
+title: 17 — Client Interfacing Training
 doc_number: 17
 category: E - Training
 owner: Hrishikesh
@@ -7,7 +7,7 @@ date: 2026-03-12
 status: Final
 ---
 
-# Client Interfacing Training
+# 17 — Client Interfacing Training
 
 *Flexiple Operations Knowledge Base | Category E: Training*
 
