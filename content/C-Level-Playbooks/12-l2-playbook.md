@@ -1,5 +1,5 @@
 ---
-title: L2 Playbook
+title: 12 — L2 Playbook
 doc_number: 12
 category: C - Level Playbooks
 owner: Hrishikesh
@@ -7,7 +7,7 @@ date: 2026-03-12
 status: Final
 ---
 
-# L2 Playbook
+# 12 — L2 Playbook
 
 *Flexiple Operations Knowledge Base | Category C: Level Playbooks*
 
