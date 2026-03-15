@@ -1,12 +1,12 @@
 ---
-title: "Flexiple: Company & Business Model"
+title: "01 — Flexiple: Company & Business Model"
 category: "Category A: Foundation"
 doc_number: 1
 date: 2026-03-01
 owner: "Hrishikesh"
 ---
 
-# Flexiple: Company & Business Model
+# 01 — Flexiple: Company & Business Model
 
 *Flexiple Operations Knowledge Base | Category A: Foundation*
 

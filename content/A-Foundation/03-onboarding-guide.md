@@ -1,12 +1,12 @@
 ---
-title: "New Joiner Onboarding Guide"
+title: "03 — New Joiner Onboarding Guide"
 category: "Category A: Foundation"
 doc_number: 3
 date: 2026-03-01
 owner: "Hrishikesh"
 ---
 
-# New Joiner Onboarding Guide
+# 03 — New Joiner Onboarding Guide
 
 *Flexiple Operations Knowledge Base | Category A: Foundation*
 

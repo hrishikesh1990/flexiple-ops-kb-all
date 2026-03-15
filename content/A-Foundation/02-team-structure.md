@@ -1,12 +1,12 @@
 ---
-title: "Operations Team: Structure & Roles"
+title: "02 — Operations Team: Structure & Roles"
 category: "Category A: Foundation"
 doc_number: 2
 date: 2026-03-01
 owner: "Hrishikesh"
 ---
 
-# Operations Team: Structure & Roles
+# 02 — Operations Team: Structure & Roles
 
 *Flexiple Operations Knowledge Base | Category A: Foundation*
 
