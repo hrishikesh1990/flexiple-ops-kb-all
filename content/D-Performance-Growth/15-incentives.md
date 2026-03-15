@@ -82,4 +82,3 @@ Flexiple's incentive structure is designed to reward consistent performance. You
 
 > [!note] See Also
 > - [[16-performance-reviews|Performance Reviews]] - How ratings are determined
-> - [[19-revenue-targets|Revenue Targets]] - Team-level revenue goals

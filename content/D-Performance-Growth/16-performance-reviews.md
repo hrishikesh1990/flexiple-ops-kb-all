@@ -97,4 +97,3 @@ Performance reviews are how we assess, develop, and make decisions about team me
 
 > [!note] See Also
 > - [[15-incentives|Incentives]] - How performance links to compensation
-> - [[21-team-progression-tracker|Team Progression Tracker]] - Tracking team growth

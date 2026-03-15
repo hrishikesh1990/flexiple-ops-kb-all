@@ -55,69 +55,54 @@ Hrishikesh (Founder)
 
 ### A — Foundation
 
-| # | Doc | Access | Status |
-|---|-----|--------|--------|
-| 1 | [[01-company-overview|Company Overview]] | All Team | Final |
-| 2 | [[02-team-structure|Team Structure]] | All Team | Final |
-| 3 | [[03-onboarding-guide|Onboarding Guide]] | All Team | Final |
+| # | Doc | Status |
+|---|-----|--------|
+| 1 | [[01-company-overview|Company Overview]] | Final |
+| 2 | [[02-team-structure|Team Structure]] | Final |
+| 3 | [[03-onboarding-guide|Onboarding Guide]] | Final |
 
 ### B — Process SOPs
 
-| # | Doc | Access | Status |
-|---|-----|--------|--------|
-| 4 | [[04-role-setup|Role Setup]] | All Team | Final |
-| 5 | [[05-sourcing-outreach|Sourcing & Outreach]] | All Team | Final |
-| 6 | [[06-profile-documentation|Profile Documentation]] | All Team | Final |
-| 7 | [[07-interview-process|Interview Process]] | All Team | Final |
-| 8 | [[08-client-communication|Client Communication]] | All Team | Final |
-| 9 | [[09-offers-closure|Offers & Closure]] | All Team | Final |
-| 10 | [[10-pipeline-management|Pipeline Management]] | All Team | Final |
+| # | Doc | Status |
+|---|-----|--------|
+| 4 | [[04-role-setup|Role Setup]] | Final |
+| 5 | [[05-sourcing-outreach|Sourcing & Outreach]] | Final |
+| 6 | [[06-profile-documentation|Profile Documentation]] | Final |
+| 7 | [[07-interview-process|Interview Process]] | Final |
+| 8 | [[08-client-communication|Client Communication]] | Final |
+| 9 | [[09-offers-closure|Offers & Closure]] | Final |
+| 10 | [[10-pipeline-management|Pipeline Management]] | Final |
 
 ### C — Level Playbooks
 
-| # | Doc | Access | Status |
-|---|-----|--------|--------|
-| 11 | [[11-l1-playbook|L1 Playbook]] | All Team | Final |
-| 12 | [[12-l2-playbook|L2 Playbook]] | L2+ | Final |
-| 13 | [[13-senior-om-playbook|Senior OM Playbook]] | Senior OM+ | Final |
-| 14 | [[14-senior-om-transition|Senior OM Transition]] | Senior OM+ | Final |
+| # | Doc | Status |
+|---|-----|--------|
+| 11 | [[11-l1-playbook|L1 Playbook]] | Final |
+| 12 | [[12-l2-playbook|L2 Playbook]] | Final |
+| 13 | [[13-senior-om-playbook|Senior OM Playbook]] | Final |
+| 14 | [[14-senior-om-transition|Senior OM Transition]] | Final |
 
 ### D — Performance & Growth
 
-| # | Doc | Access | Status |
-|---|-----|--------|--------|
-| 15 | [[15-incentives|Incentives]] | All Team | Final |
-| 16 | [[16-performance-reviews|Performance Reviews]] | Leadership Only | Final |
+| # | Doc | Status |
+|---|-----|--------|
+| 15 | [[15-incentives|Incentives]] | Final |
+| 16 | [[16-performance-reviews|Performance Reviews]] | Final |
 
 ### E — Training
 
-| # | Doc | Access | Status |
-|---|-----|--------|--------|
-| 17 | [[17-client-interfacing-training|Client Interfacing Training]] | All Team | Final |
-| 18 | [[18-product-tools-guide|Product & Tools Guide]] | All Team | Draft |
+| # | Doc | Status |
+|---|-----|--------|
+| 17 | [[17-client-interfacing-training|Client Interfacing Training]] | Final |
+| 18 | [[18-product-tools-guide|Product & Tools Guide]] | Draft |
 
-### F — Strategy
+### F — Weekly Tracker
 
-| # | Doc | Access | Status |
-|---|-----|--------|--------|
-| 19 | [[19-revenue-targets|Revenue Targets]] | Leadership Only | Final |
-| 20 | [[20-team-capacity-model|Team Capacity Model]] | Leadership Only | Final |
-| 21 | [[21-team-progression-tracker|Team Progression Tracker]] | Leadership Only | Final |
-
-### G — Weekly Tracker
-
-| # | Doc | Access | Status |
-|---|-----|--------|--------|
-| 22 | [[22-weekly-plan-tracker|Weekly Plan & Progress Tracker]] | Senior OM+ | Final |
+| # | Doc | Status |
+|---|-----|--------|
+| 19 | [[19-weekly-plan-tracker|Weekly Plan & Progress Tracker]] | Final |
 
 ---
-
-## Access Levels
-
-- **All Team** — Every team member can view
-- **L2+** — OM-L2 and above
-- **Senior OM+** — Senior OMs and Hrishikesh
-- **Leadership Only** — Hrishikesh only
 
 ## Review Cadence
 
@@ -125,5 +110,4 @@ Hrishikesh (Founder)
 |---|---|---|
 | Process SOPs (B) | Quarterly | Senior OMs + Hrishikesh |
 | Level Playbooks (C) | Every 6 months | Hrishikesh |
-| Strategy docs (F) | Quarterly | Hrishikesh |
-| Weekly Tracker (G) | Weekly | Hrishikesh + Senior OMs |
+| Weekly Tracker (F) | Weekly | Hrishikesh + Senior OMs |

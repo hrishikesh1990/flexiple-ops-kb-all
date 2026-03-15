@@ -106,4 +106,3 @@ You lead a pod of OMs, own the pod's revenue output, develop your team members, 
 > - [[12-l2-playbook|L2 Playbook]] - What your L2s are expected to do
 > - [[14-senior-om-transition|Senior OM Transition]] - Guide for new Senior OMs
 > - [[16-performance-reviews|Performance Reviews]] - How you evaluate your team
-> - [[19-revenue-targets|Revenue Targets]] - Pod revenue expectations
