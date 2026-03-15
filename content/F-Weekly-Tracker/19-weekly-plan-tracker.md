@@ -3,7 +3,7 @@ title: 19 — Weekly Plan & Progress Tracker
 tags: [weekly-plan, tracker, operations, active-roles]
 owner: Hrishikesh
 date: 2026-03-15
-status: Final
+status: Draft
 ---
 
 # 19 — Weekly Plan & Progress Tracker

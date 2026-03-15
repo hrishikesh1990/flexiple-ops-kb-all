@@ -57,50 +57,50 @@ Hrishikesh (Founder)
 
 | # | Doc | Status |
 |---|-----|--------|
-| 1 | [[01-company-overview|Company Overview]] | Final |
-| 2 | [[02-team-structure|Team Structure]] | Final |
-| 3 | [[03-onboarding-guide|Onboarding Guide]] | Final |
+| 1 | [[01-company-overview|Company Overview]] | Live |
+| 2 | [[02-team-structure|Team Structure]] | Live |
+| 3 | [[03-onboarding-guide|Onboarding Guide]] | Live |
 
 ### B — Process SOPs
 
 | # | Doc | Status |
 |---|-----|--------|
-| 4 | [[04-role-setup|Role Setup]] | Final |
-| 5 | [[05-sourcing-outreach|Sourcing & Outreach]] | Final |
-| 6 | [[06-profile-documentation|Profile Documentation]] | Final |
-| 7 | [[07-interview-process|Interview Process]] | Final |
-| 8 | [[08-client-communication|Client Communication]] | Final |
-| 9 | [[09-offers-closure|Offers & Closure]] | Final |
-| 10 | [[10-pipeline-management|Pipeline Management]] | Final |
+| 4 | [[04-role-setup|Role Setup]] | Draft |
+| 5 | [[05-sourcing-outreach|Sourcing & Outreach]] | Draft |
+| 6 | [[06-profile-documentation|Profile Documentation]] | Draft |
+| 7 | [[07-interview-process|Interview Process]] | Draft |
+| 8 | [[08-client-communication|Client Communication]] | Draft |
+| 9 | [[09-offers-closure|Offers & Closure]] | Draft |
+| 10 | [[10-pipeline-management|Pipeline Management]] | Draft |
 
 ### C — Level Playbooks
 
 | # | Doc | Status |
 |---|-----|--------|
-| 11 | [[11-l1-playbook|L1 Playbook]] | Final |
-| 12 | [[12-l2-playbook|L2 Playbook]] | Final |
-| 13 | [[13-senior-om-playbook|Senior OM Playbook]] | Final |
-| 14 | [[14-senior-om-transition|Senior OM Transition]] | Final |
+| 11 | [[11-l1-playbook|L1 Playbook]] | Draft |
+| 12 | [[12-l2-playbook|L2 Playbook]] | Draft |
+| 13 | [[13-senior-om-playbook|Senior OM Playbook]] | Draft |
+| 14 | [[14-senior-om-transition|Senior OM Transition]] | Draft |
 
 ### D — Performance & Growth
 
 | # | Doc | Status |
 |---|-----|--------|
-| 15 | [[15-incentives|Incentives]] | Final |
-| 16 | [[16-performance-reviews|Performance Reviews]] | Final |
+| 15 | [[15-incentives|Incentives]] | Draft |
+| 16 | [[16-performance-reviews|Performance Reviews]] | Draft |
 
 ### E — Training
 
 | # | Doc | Status |
 |---|-----|--------|
-| 17 | [[17-client-interfacing-training|Client Interfacing Training]] | Final |
+| 17 | [[17-client-interfacing-training|Client Interfacing Training]] | Draft |
 | 18 | [[18-product-tools-guide|Product & Tools Guide]] | Draft |
 
 ### F — Weekly Tracker
 
 | # | Doc | Status |
 |---|-----|--------|
-| 19 | [[19-weekly-plan-tracker|Weekly Plan & Progress Tracker]] | Final |
+| 19 | [[19-weekly-plan-tracker|Weekly Plan & Progress Tracker]] | Draft |
 
 ---
 
