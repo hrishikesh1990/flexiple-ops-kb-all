@@ -2,7 +2,7 @@
 title: Flexiple Operations Knowledge Base
 tags: [index, map-of-content]
 owner: Hrishikesh
-date: 2026-03-12
+date: 2026-03-15
 status: Final
 ---
 
@@ -104,6 +104,12 @@ Hrishikesh (Founder)
 | 20 | [[20-team-capacity-model|Team Capacity Model]] | Leadership Only | Final |
 | 21 | [[21-team-progression-tracker|Team Progression Tracker]] | Leadership Only | Final |
 
+### G — Weekly Tracker
+
+| # | Doc | Access | Status |
+|---|-----|--------|--------|
+| 22 | [[22-weekly-plan-tracker|Weekly Plan & Progress Tracker]] | Senior OM+ | Final |
+
 ---
 
 ## Access Levels
@@ -120,3 +126,4 @@ Hrishikesh (Founder)
 | Process SOPs (B) | Quarterly | Senior OMs + Hrishikesh |
 | Level Playbooks (C) | Every 6 months | Hrishikesh |
 | Strategy docs (F) | Quarterly | Hrishikesh |
+| Weekly Tracker (G) | Weekly | Hrishikesh + Senior OMs |
