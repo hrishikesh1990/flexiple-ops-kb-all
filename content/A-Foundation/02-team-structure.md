@@ -4,6 +4,7 @@ category: "Category A: Foundation"
 doc_number: 2
 date: 2026-03-01
 owner: "Hrishikesh"
+status: Live
 ---
 
 # 02 — Operations Team: Structure & Roles

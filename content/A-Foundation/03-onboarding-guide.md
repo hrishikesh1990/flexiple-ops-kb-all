@@ -4,6 +4,7 @@ category: "Category A: Foundation"
 doc_number: 3
 date: 2026-03-01
 owner: "Hrishikesh"
+status: Live
 ---
 
 # 03 — New Joiner Onboarding Guide
