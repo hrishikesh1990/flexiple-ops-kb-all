@@ -2,7 +2,7 @@
 title: Flexiple Operations Knowledge Base
 tags: [index, map-of-content]
 owner: Hrishikesh
-date: 2026-03-15
+date: 2026-03-16
 status: Final
 ---
 
@@ -36,18 +36,6 @@ Hrishikesh (Founder)
 ```
 
 **Reporting:** OMs → Senior OMs → Hrishikesh (Founder)
-
----
-
-## Key Numbers
-
-| Metric | Value |
-|---|---|
-| Contractor base target | [amount] |
-| FTE base target | [amount] |
-| E-level month | 20 conversions overall |
-| Team size | 3 Senior OMs + 14 OMs |
-| Senior OM pod size | 3–7 members |
 
 ---
 
